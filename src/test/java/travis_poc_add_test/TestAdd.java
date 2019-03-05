@@ -43,7 +43,6 @@ public class TestAdd extends AddTwoNumbers{
 		int sum = 8;
 		int total = addTwo(val1, val2);
 		assertEquals(sum,  total);
-
 		//fail("Not yet implemented");
 	}
 
