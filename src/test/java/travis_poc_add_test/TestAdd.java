@@ -1,13 +1,13 @@
-/**
- * 
- */
-package travis_poc_add;
+package travis_poc_add_test;
+
+
 
 import static org.junit.Assert.*;
-
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
+
+import travis_poc_add.AddTwoNumbers;
 
 /**
  * @author sourabh
@@ -40,7 +40,7 @@ public class TestAdd extends AddTwoNumbers{
 	 */
 	@Test
 	public void testAddTwo() {
-		int sum = 9;
+		int sum = 8;
 		int total = addTwo(val1, val2);
 		assertEquals(sum,  total);
 
