@@ -1,2 +1,3 @@
 # travis_poc
-https://travis-ci.com/sourabhparime/travis_poc.svg?branch=master
+
+[![Build Status](https://travis-ci.com/sourabhparime/travis_poc.svg?branch=master)](https://travis-ci.com/sourabhparime/travis_poc)
