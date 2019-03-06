@@ -40,7 +40,7 @@ public class TestAdd extends AddTwoNumbers{
 	 */
 	@Test
 	public void testAddTwo() {
-		int sum = 9;
+		int sum = 8;
 		int total = addTwo(val1, val2);
 		assertEquals(sum,  total);
 		//fail("Not yet implemented");
